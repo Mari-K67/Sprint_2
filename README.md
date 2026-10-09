@@ -1,5 +1,5 @@
 # Sprint_2
-Learning Python, solving basic tasks
+Изучение Python, решение базовых задач. 
 
 ## task_1
 В этом задании тебе нужно создать подвид тест-кейса.  
